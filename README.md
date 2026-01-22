@@ -8,4 +8,4 @@ Visualization: Created scatter plots to analyze the clusters.
 ### Tools Used:
 
 Python, Pandas, Matplotlib, Scikit-Learn.
-Note: This project was completed as an implementation task during my AI specialization.ترجم مااذ كتبت ؟
+Note: This project was completed as an implementation task during my AI specialization.
